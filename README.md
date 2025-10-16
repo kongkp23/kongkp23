@@ -19,10 +19,3 @@ l've been learning to code for 3 years.
 <a href="https://www.github.com/kongkp23" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kongkp23?logo=github&style=for-the-badge&color=14b8a6&labelColor=171717" /></a>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/kongkp23"><img src="https://github-readme-stats.vercel.app/api?username=kongkp23&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&show_icons=true" alt="kongkp23's GitHub stats" /></a>
-
-<a href="https://github.com/kongkp23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongkp23&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
